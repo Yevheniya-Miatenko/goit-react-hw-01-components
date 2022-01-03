@@ -1,0 +1,21 @@
+.stat_list {
+  display: flex;
+  justify-content: space-between;
+
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+}
+.stat_title {
+  text-align: center;
+  margin-bottom: 0;
+  background-color: rgba(68, 58, 56,0.2);
+  padding: 10px;
+}
+.stat_list span {
+  display: block;
+}
+.stat_list_item {
+  border: 15px solid transparent;
+  
+}

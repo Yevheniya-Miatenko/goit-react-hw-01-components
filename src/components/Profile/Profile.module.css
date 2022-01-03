@@ -1,0 +1,25 @@
+.card {
+  padding: 10px;
+  border: 2px solid tomato;
+  border-radius: 5px;
+  height: 500px;
+}
+.profile {
+  position: relative;
+}
+.profile p {
+  text-align: center;
+  margin: 0;
+}
+.avatar {
+  width: 300px;
+  height: 400px;
+  background-color: rgb(138, 130, 130);
+}
+.stats {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
